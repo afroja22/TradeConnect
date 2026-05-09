@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <a href="/products">View All Products</a>
+
+    <br><br>
     <h2>Add Product</h2>
 
     <form method="POST" action="/products">
